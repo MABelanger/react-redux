@@ -3,4 +3,4 @@ export function createCourse(course) {
     type: 'CREATE_COURSE',
     course
   }
-}
+};
